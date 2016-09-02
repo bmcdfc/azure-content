@@ -31,6 +31,9 @@ The log files to be collected must match the following criteria.
 	
 - The log file must not allow circular updates where the file is overwritten with new entries. 
 
+- The log file must be in either ANSI or UTF-8 format. 
+
+
 ## Defining a custom log
 
 Use the following procedure to define a custom log file.  Scroll to the end of this article for a walkthrough of a sample of adding a custom log.
